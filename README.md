@@ -1,6 +1,6 @@
-# MY-CALCULATER
+# MY-CALCULATER  
 
- 1. DOWNLOAD ZIP OR  git clone  https://github.com/tony3357/MY-CALCULATER.git
+1. DOWNLOAD ZIP OR  git clone  https://github.com/tony3357/MY-CALCULATER.git
 
   2.cd MY-CALCULATER
 
